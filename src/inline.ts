@@ -1,4 +1,4 @@
-import * as postcss from 'postcss'
+import * as postcss from '@kostkams/postcss'
 import cssValueParser from 'postcss-value-parser'
 
 import { unescapeStringValue } from './css.js'

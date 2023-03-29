@@ -1,5 +1,5 @@
 {
-	"name": "dom-to-svg",
+	"name": "@kostkams/dom-to-svg",
 	"version": "0.1.2",
 	"description": "Take SVG screenshots of DOM elements",
 	"main": "lib/index.js",
@@ -106,7 +106,7 @@
 	},
 	"dependencies": {
 		"gradient-parser": "^1.0.2",
-		"postcss": "^8.3.5",
+		"@kostkams/postcss": "^8.4.22",
 		"postcss-value-parser": "^4.1.0"
 	}
 }
